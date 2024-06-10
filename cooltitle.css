@@ -1,0 +1,11 @@
+body{
+    background-image: url("bg image 2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+button{
+    break-after: right;
+}
